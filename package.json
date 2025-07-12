@@ -1,3 +1,15 @@
 {
-  "accessCode": "alwayslanz"
+  "name": "web-code-toolkit",
+  "version": "1.0.0",
+  "description": "Tools untuk bekerja dengan kode HTML",
+  "accessCode": "ALWAYS",
+  "accessExpiry": "2022-12-30T23:59:59",
+  "accessCode": "freeakses",
+  "accessExpiry": "2025-07-13T24:59:59",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "AlwaysLanz",
+  "license": "MIT"
 }
