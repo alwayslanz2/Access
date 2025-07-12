@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "Tools untuk bekerja dengan kode HTML",
   "accessCode": "alwayslanz",
-  "accessExpiry": "2025-7-12T08:55:50",
+  "accessExpiry": "2025-07-12T08:55:50",
   "accessCode": "freeakses",
-  "accessExpiry": "2025-7-13T10:59:59",
+  "accessExpiry": "2025-07-13T10:59:59",
   "accessCode": "tes",
-  "accessExpiry": "2025-7-12T9:1:5",
+  "accessExpiry": "2025-07-12T09:06:05",
   "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
